@@ -1,0 +1,10 @@
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\bin\Debug\TI2E-1441180128.exe.config
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E_1441180128.Form1.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E_1441180128.Resources.resources
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E-1441180128.vbproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\bin\Debug\TI2E-1441180128.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\bin\Debug\TI2E-1441180128.pdb
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\bin\Debug\TI2E-1441180128.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E-1441180128.exe
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E-1441180128.xml
+c:\users\toshiba\documents\visual studio 2013\Projects\TI2E-1441180128\TI2E-1441180128\obj\Debug\TI2E-1441180128.pdb
